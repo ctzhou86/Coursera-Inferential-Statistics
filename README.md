@@ -1,2 +1,2 @@
 # Coursera-Inferential-Statistics
-Keys to Coursera Course Inferential Statistics (part of the Statistics with R Specialization)
+Keys to Coursera Course Inferential Statistics (part of the Statistics with R Specialization) by Duke University.
